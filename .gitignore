@@ -1,6 +1,8 @@
-**/.envrc
+**/.env
 .idea/
 vault-init.json
+
+**/.shell.nix
 
 **/*.bak
 **/.terraform
