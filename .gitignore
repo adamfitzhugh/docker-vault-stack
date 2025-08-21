@@ -2,7 +2,7 @@
 .idea/
 vault-init.json
 
-**/.shell.nix
+**/shell.nix
 
 **/*.bak
 **/.terraform
